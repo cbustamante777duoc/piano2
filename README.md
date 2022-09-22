@@ -7,7 +7,7 @@ This project was created with:
 3. flexbox
 
 
-![title]('./src/assets/imagenes/Captura.PNG')
+![imagen]('src/assets/imagenes/Captura.PNG')
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
